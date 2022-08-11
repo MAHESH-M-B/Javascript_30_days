@@ -28,3 +28,4 @@ console.log(challenge.charAt(15));
 console.log(challenge.charAt('a'));
 
 console.log(challenge.indexOf('j'));
+
