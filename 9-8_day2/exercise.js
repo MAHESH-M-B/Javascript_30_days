@@ -31,6 +31,6 @@ console.log(challenge.indexOf('j'));
 
 
 
-let name=mahesh;
+var name1='mahesh'
 
-console.log(`my name is ${name}`);
+console.log(`my name is ${name1}`)
