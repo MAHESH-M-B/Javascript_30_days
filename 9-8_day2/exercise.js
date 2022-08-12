@@ -29,3 +29,8 @@ console.log(challenge.charAt('a'));
 
 console.log(challenge.indexOf('j'));
 
+
+
+let name=mahesh;
+
+console.log(`my name is ${name}`);
