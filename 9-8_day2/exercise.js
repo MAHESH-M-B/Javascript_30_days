@@ -34,3 +34,9 @@ console.log(challenge.indexOf('j'));
 var name1='mahesh'
 
 console.log(`my name is ${name1}`)
+
+
+
+var age=22
+
+console.log(`my age is ${age}`)
