@@ -40,3 +40,7 @@ console.log(`my name is ${name1}`)
 var age=22
 
 console.log(`my age is ${age}`)
+
+let dream='get a job in fang'
+
+console.log('my dream is ${dream}')
