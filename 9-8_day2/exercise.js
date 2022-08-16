@@ -46,3 +46,4 @@ let dream='get a job in fang'
 console.log(`my dream is ${dream}`)
 
 console.log(`should i complete my dream ${dream}`);
+console.log(`yes i will fullfill my ${dream}`);
